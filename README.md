@@ -96,5 +96,17 @@ This project exists thanks to all the people who contributed. A special thanks t
 - *Mohamed Osama*
   - *GitHub:* [MohamedOsamaa74](https://github.com/MohamedOsamaa74)
   - *LinkedIn:* [Mohamed Osama](https://www.linkedin.com/in/mohamed-osama-306573200/)
+ 
+- *Sama Mohamed*
+  - *GitHub:* [Samaamhmd](https://github.com/Samaamhmd)
+  - *LinkedIn:* [Sama Mhmd](https://www.linkedin.com/in/sama-mhmd/)
+
+- *Shimaa Mohamed*
+  - *GitHub:* [shimaamhmd](https://github.com/shimaamhmd)
+  - *LinkedIn:* [Shimaa Okasha](https://www.linkedin.com/in/shimaa-okasha-7b266821b/)
+
+- *Abdelrahman Zaki*
+  - *GitHub:* [Abdo Zaki](https://github.com/Abdo-Zaki)
+  - *LinkedIn:* [Abdo Zaki](https://www.linkedin.com/in/abdo-zaki-689835227/)
 
 Project Link: https://github.com/Jameeelaahmed/E-learn-Frontend
